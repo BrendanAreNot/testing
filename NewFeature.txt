@@ -4,3 +4,5 @@ Eclipse is far easier to use than VIM because it doesn't have to be used in the 
 As such, changes are easier to make and view using Eclipse's text editor.
 
 The blank file was created using VIM, but edited with Eclipse.
+
+After pulling the new changes from master, this edit was made.
