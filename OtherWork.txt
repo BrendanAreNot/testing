@@ -1,0 +1,1 @@
+This file simulates changes made to the master branch that don't impact changes to my work.
