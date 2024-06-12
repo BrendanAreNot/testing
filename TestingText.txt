@@ -1,4 +1,6 @@
 This file is being created locally.
 And now it is being edited in the Branch1 branch!
 
-while also making changes to the master file?
+
+Now what happens if I make one change in Branch 1, while also making changes to the master file?
+Then I have to resolve the Merge Conflict!
