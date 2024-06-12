@@ -1,0 +1,6 @@
+Using Eclipse I can write in a new feature.
+
+Eclipse is far easier to use than VIM because it doesn't have to be used in the terminal.
+As such, changes are easier to make and view using Eclipse's text editor.
+
+The blank file was created using VIM, but edited with Eclipse.
